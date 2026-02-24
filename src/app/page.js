@@ -98,7 +98,7 @@ export default function Home() {
 
                     <div className="flex items-center gap-4">
                         <UnitSwitcher currentUnit={units} onUnitChange={handleUnitChange} />
-                        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-all text-white/70 hover:text-white">
+                        <a href="https://github.com/pallaviwaychole25/Weather-App" target="_blank" rel="noopener noreferrer" className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-all text-white/70 hover:text-white">
                             <Github className="w-5 h-5" />
                         </a>
                     </div>
